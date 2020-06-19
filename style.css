@@ -10,7 +10,7 @@ html, body {
     color: #fff;
     outline-color: #000;
     border-color: black;
-    font-size: 1px;
+    font-size: 20px;
     font-family: 'Amatic SC', cursive;
 }
 
@@ -23,7 +23,7 @@ html, body {
     background-color: #fff;
     outline-color: black;
     border-color: blue;
-    font-size: 20px;
+    font-size: 19px;
     text-align: center;
     font-family: 'Amatic SC', cursive;
 }
