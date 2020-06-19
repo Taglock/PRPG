@@ -6,10 +6,10 @@ html, body {
 
 #button1{
     background-color: #006600;
-    color:chocolate;
+    color: #fff;
     outline-color: #000;
     border-color: black;
-    font-size: 30px;
+    font-size: 20px;
     font-family: 'Amatic SC', cursive;
 }
 
@@ -19,10 +19,10 @@ html, body {
 }
 
 #textbox{
-    background-color: aquamarine;
+    background-color: #fff;
     outline-color: black;
     border-color: blue;
-    font-size: 30px;
+    font-size: 20px;
     text-align: center;
     font-family: 'Amatic SC', cursive;
 }
